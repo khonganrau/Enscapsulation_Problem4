@@ -34,7 +34,7 @@ Boiko Angleov 35 555 |
    ![Imgur](https://i.imgur.com/rZzqIWZ.png)  
 
 3. Properties for FirstTeam and ReserveTeam have only getters. In this section, we using _**IReadOnlyCollection**_ to protect the data and this collection should be treated as immutable, and the client code shoukd onky read it, and not update it.
-   ![Imgur](https://i.imgur.com/P5n0hQI.png)  
+   ![Imgur](https://i.imgur.com/P5n0hQI.png)   
    
 4. There will have method, which adds players to teams.
    ![Imgur](https://i.imgur.com/bofGeoE.png)  
